@@ -1,0 +1,19 @@
+{
+  "name": "hw20reactportfoliochallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylerS175/HW20ReactPortfolioChallenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TylerS175/HW20ReactPortfolioChallenge/issues"
+  },
+  "homepage": "https://github.com/TylerS175/HW20ReactPortfolioChallenge#readme"
+}
