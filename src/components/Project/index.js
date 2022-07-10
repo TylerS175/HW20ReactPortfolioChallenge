@@ -1,12 +1,9 @@
-export const projects = [
-// List of previous projects 
-{
-    title: "",
-    Subtitle: "",
-    description: "",
-    image: "",
-    link: ""
+import React from "react";
+
+function Project(){
+    return(
+        <div></div>
+    );
 }
 
-
-]
+export default Project;

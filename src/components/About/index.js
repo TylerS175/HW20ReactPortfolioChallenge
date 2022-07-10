@@ -1,7 +1,7 @@
 import React from "react";
 
 function About (){
-    // Biography About Ourselve 
+    // Biography About Ourselves 
     return (
         <div>
             <p>Appraiser with the intentions of becoming Creative creator as Front End Developer (Full Stack Developer)</p>

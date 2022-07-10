@@ -1,5 +1,6 @@
 import React from 'react';
-import components from './components';
+import About from './components/About';
+
 
 function App() {
     return (
