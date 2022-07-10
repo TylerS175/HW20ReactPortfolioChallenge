@@ -14,7 +14,7 @@ function About (){
                 Self-starter motivated individual who retains information with hands on experience. I am adaptable and willing to take outside of my comfort zone to learn new skills. 
             </p>
         </div>
-    )
+    );
 }
 
 
