@@ -2,31 +2,13 @@ import React from 'react';
 
 function Resume() {
   return (
-    <div className="columns">
-      <div className="column">
-        <p className="content is-medium">Résumé</p>
-        <hr />
-
-        <a
-          className="button is-primary"
-          href={process.env.PUBLIC_URL + "/"}
-          target="_blank" rel="noreferrer"
-        >
-          <span className="icon">
-            <i className="fas fa-download"></i>
-          </span>
-          <span>Download My Resume</span>
-        </a>
-      </div>
-      <div className="column">
-        <p className="content is-medium">Skills</p>
-        <hr />
-        <ul>
-            <li>HTML, CSS, Javascript</li>
-        </ul>
-      </div>
+    <div>
+      <img className="my-pic" src={process.env.PUBLIC_URL + '/images/ResumeScreenshot.png'} alt="Resume"/>
+    <ul>
+        <li>HTML, CSS, Javascript</li>
+    </ul>
     </div>
-  );
-}
-
+    );
+  }
+    
 export default Resume;
