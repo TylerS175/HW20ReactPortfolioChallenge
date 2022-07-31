@@ -8,7 +8,9 @@ _________________________________________________
 Links
 _________________________________________________
 Deployed Link:
-https://git.heroku.com/fathomless-oasis-81487.git
+https://fathomless-oasis-81487.herokuapp.com/
+
+
 GitHub Link:
 https://github.com/TylerS175/HW20ReactPortfolioChallenge.git 
 _________________________________________________
