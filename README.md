@@ -15,4 +15,4 @@ _________________________________________________
 
 Preview of the Page:
 
-![screenshoot](/public/Images/)
+![screenshoot](/public/Images/Preview.png)
